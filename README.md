@@ -6,6 +6,9 @@
 
 A single-page website that deliberately breaks every web design rule to showcase AI prompting and direction skills. Click "Make it Stop" to reveal a professional explanation of the project.
 
+<!-- insert markdown image here -->
+![Screenshot](/screenshot.png)
+
 ## Features
 
 - Comic Sans + Papyrus typography
